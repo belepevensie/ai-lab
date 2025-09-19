@@ -23,14 +23,14 @@ Um exemplo prático de como **engenharia de prompt** pode melhorar a clareza e u
 ## 🚀 Tools & Technologies
 - ChatGPT (GPT-4)
 - Markdown for documentation
-- Python (optional for automation)
+- Python (for automation)
 - LangChain (future experiments)
 
 ---
 
 ## ✨ About
 Created by **Isabele Cristine Ferreira Barroso**  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/isabele-cristine-ferreira-barroso-a077b4145/) | [GitHub](https://github.com/belepevensie)
 
 ---
 
